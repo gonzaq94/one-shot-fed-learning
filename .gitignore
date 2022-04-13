@@ -1,0 +1,6 @@
+
+# zip files
+*.zip
+
+# notebook checkpoints
+*/.ipynb_checkpoints 
