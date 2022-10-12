@@ -13,7 +13,8 @@ The demo can be found in the following link
 https://ipolcore.ipol.im/demo/clientApp/demo.html?id=77777000209&key=94C17AD436BB3CF7EB96C1FFEAA03889
 
 ### Repository organization
-.
+<pre>
+.  
 ├── src                    # Soure code  
 │   ├── main.ipynb         # demo code  
 │   ├── requirements.txt   # Library requirements  
@@ -21,6 +22,7 @@ https://ipolcore.ipol.im/demo/clientApp/demo.html?id=77777000209&key=94C17AD436B
 │   ├── theme_ipol.scss    # IPOL Journal theme  
 ├── LICENSE.md  
 └── README.md  
+<pre>
 
 ### Copyright and license
 
