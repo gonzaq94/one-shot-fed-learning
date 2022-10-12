@@ -1,6 +1,6 @@
 <h1>Incidence of the sample size distribution on one-shot Federated Learning</h1>
 
-v1.0 / October 2022
+v1.0.0 / October 2022
 
 __Authors: Gonzalo Iñaki Quintana & Marie Garin__
 
