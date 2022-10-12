@@ -14,15 +14,13 @@ https://ipolcore.ipol.im/demo/clientApp/demo.html?id=77777000209&key=94C17AD436B
 
 ### Repository organization
 .
-├── src                    # Soure code
-
-│   ├── main.ipynb         # demo code
-
-│   ├── requirements.txt   # Library requirements
-│   ├── run.sh             # Code for running notebook
-│   ├── theme_ipol.scss    # IPOL Journal theme
-├── LICENSE.md
-└── README.md
+├── src                    # Soure code  
+│   ├── main.ipynb         # demo code  
+│   ├── requirements.txt   # Library requirements  
+│   ├── run.sh             # Code for running notebook  
+│   ├── theme_ipol.scss    # IPOL Journal theme  
+├── LICENSE.md  
+└── README.md  
 
 ### Copyright and license
 
