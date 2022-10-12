@@ -22,7 +22,6 @@ https://ipolcore.ipol.im/demo/clientApp/demo.html?id=77777000209&key=94C17AD436B
 │   ├── theme_ipol.scss    # IPOL Journal theme  
 ├── LICENSE.md  
 └── README.md  
-<pre>
 
 ### Copyright and license
 
