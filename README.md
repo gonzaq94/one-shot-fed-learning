@@ -8,9 +8,9 @@ __Contact:__ gonzalo.quintana@ens-paris-saclay.fr
 
 Simulation of One-shot Federated Learning made for the IPOL Journal (https://www.ipol.im/).
 
-The demo can be found in the following link
+Link to the demo: https://ipolcore.ipol.im/demo/clientApp/demo.html?id=440
 
-https://ipolcore.ipol.im/demo/clientApp/demo.html?id=77777000209&key=94C17AD436BB3CF7EB96C1FFEAA03889
+Link to the article: https://www.ipol.im/pub/pre/440/
 
 ### Repository organization
 <pre>
